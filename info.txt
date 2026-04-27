@@ -1,0 +1,51 @@
+Name:
+Mohammad Atiyeh
+
+picture path:
+C:\Users\PAL WEB\Desktop\portfolio\picture.png 
+
+mhmdalatiyeh@gmail.com | +970595333057 | github.com/mhmdatiyeh 
+                                           linkedin.com/in/mhmdatiyeh 
+ 
+Brief description: 
+Motivated Computer Systems Engineering student with a strong foundation in software development and problem 
+solving. Passionate about learning Back-end technologies and contributing to software projects. 
+ 
+Education 
+Arab American University, BS in Computer Systems Engineering 2021 – 2026 
+• Coursework: Web Development, Mobile Programming, AI and Learning Algorithms, Embedded Systems, and 
+other advanced Computer Systems Engineering courses. 
+• Completed a course in Machine Learning and Data Cleaning. 
+Skills 
+• Technical: 
+• C# 
+• C++ 
+• Java 
+• HTML, CSS 
+• Object Oriented Programming 
+• Git and GitHub 
+• TypeScript 
+• Soft: 
+• Leadership and Supervision 
+• Effective Communication and Teamwork 
+• Time Management 
+• Problem Solving 
+Experience 
+Full Stack Developer Intern 
+AQLAMA.ai 
+• Trained as a Full Stack Developer. 
+• Worked on building and maintaining web applications. 
+• Gained hands-on experience with front-end and back-end development. 
+• Collaborated with a development team to deliver features and fix issues. 
+Projects 
+Healthcare Risk Classification — Machine Learning Project 
+https://github.com/mhmdatiyeh/healthcare-risk-classification-ML 
+ 
+• Developed an ML pipeline to classify healthcare risk factors using real-world patient data. 
+• Applied data preprocessing techniques including data cleaning, normalization, and outlier detection. 
+• Performed feature selection to identify the most significant predictors of healthcare risk. 
+• Trained and evaluated multiple classification models to predict patient risk levels. 
+• Produced a full project documentation and presentation summarizing methodology and results. 
+Languages 
+Arabic - Native Language 
+Engilsh - Fluent
