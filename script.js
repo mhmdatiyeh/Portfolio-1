@@ -73,3 +73,19 @@ revealItems.forEach((item) => revealObserver.observe(item));
 
 window.addEventListener("scroll", updateHeaderState, { passive: true });
 window.addEventListener("load", updateHeaderState);
+
+const setupMarquee = () => {
+  const tracks = document.querySelectorAll("[data-marquee-track]");
+  tracks.forEach((track) => {
+    if (track.dataset.cloned === "true") return;
+    const items = Array.from(track.children);
+    items.forEach((node) => {
+      const clone = node.cloneNode(true);
+      clone.setAttribute("aria-hidden", "true");
+      track.appendChild(clone);
+    });
+    track.dataset.cloned = "true";
+  });
+};
+
+setupMarquee();
